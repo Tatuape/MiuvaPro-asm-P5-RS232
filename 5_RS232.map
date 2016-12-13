@@ -1,0 +1,38 @@
+MPLINK 4.37, Linker
+Linker Map File - Created Tue Dec 13 13:22:39 2016
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000034
+                   .cinit    romdata   0x000034    program   0x000002
+    .config_01FFF8_MAIN.O    romdata   0x01fff8    program   0x000001
+    .config_01FFFA_MAIN.O    romdata   0x01fffa    program   0x000001
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000035      
+                            0x01fff8    0x01fff8      
+                            0x01fffa    0x01fffa      
+            56 out of 131072 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   ESPERA   0x00001c    program     static D:\MPLABProyects\Practicas_curso_basico\5_RS232\main.asm
+                   INICIO   0x000004    program     static D:\MPLABProyects\Practicas_curso_basico\5_RS232\main.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   INICIO   0x000004    program     static D:\MPLABProyects\Practicas_curso_basico\5_RS232\main.asm
+                   ESPERA   0x00001c    program     static D:\MPLABProyects\Practicas_curso_basico\5_RS232\main.asm
+
+
